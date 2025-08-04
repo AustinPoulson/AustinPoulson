@@ -39,7 +39,7 @@
 ### EtherMedia
 - [EtherMedia](https://ethermedia.app/) - Photo sales platform
 ### Personal
-- [HomePage](https://austinpoulson.github.io/HomePage/) (repo) - Customizable homepage
+- [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage
 
 <!--
 **AustinPoulson/AustinPoulson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
