@@ -36,7 +36,6 @@
 - [Merchology Github](https://github.com/AustinMerchology)
 
 ## Projects
-### Current
 - [EtherMedia](https://ethermedia.app/) - Photo sales platform
 
 <!--
