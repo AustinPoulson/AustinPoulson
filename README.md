@@ -36,7 +36,10 @@
 - [Merchology Github](https://github.com/AustinMerchology)
 
 ## Projects
+### EtherMedia
 - [EtherMedia](https://ethermedia.app/) - Photo sales platform
+### Personal
+- [HomePage](https://austinpoulson.github.io/HomePage/) (repo) - Customizable homepage
 
 <!--
 **AustinPoulson/AustinPoulson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
