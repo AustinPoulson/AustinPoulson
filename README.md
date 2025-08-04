@@ -1,5 +1,7 @@
 # Hi! Thanks for dropping by 😎
 
+[![Follow](https://img.shields.io/github/followers/AustinPoulson?label=Follow&style=social)](https://github.com/AustinPoulson)
+
 ### Things I code with
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
