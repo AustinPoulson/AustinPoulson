@@ -42,3 +42,4 @@ The Boston Scientific merch store was completed and delivered fulfilling the con
 Through this project we:
 - Delivered a feature-rich Shopify store aligned closely with Boston Scientific’s brand standards.
 - Moved quickly - The development portion of the project was completed in half the estimated time.
+- Received positive feedback from the client.
