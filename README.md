@@ -41,6 +41,7 @@
 ### EtherMedia
 - [EtherMedia](https://ethermedia.app/) - Photo sales platform
 ### Merchology
+- [Merchology Solutions](https://github.com/AustinPoulson/AustinPoulson/blob/071d043478f71baa14d589c3e5114931893178d5/projects/Merchology/MerchologySolutions.md) - Tool suite for Merchology sales
 - [Boston Scientific Merch](https://github.com/AustinPoulson/AustinPoulson/blob/main/projects/BostonScientificMerch.md) - Merchology supplied merchandise for Boston Scientific
 ### Personal
 - [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage
