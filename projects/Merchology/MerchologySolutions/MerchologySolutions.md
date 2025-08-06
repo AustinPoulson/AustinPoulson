@@ -9,4 +9,4 @@ Merchology Solutions is a set of purpose built tools designed to meet specific c
 
 ### Case Studies
 
-- Storefront UI Update
+- [Storefront UI Update 2024](projects/Merchology/MerchologySolutions/StorefrontUIUpdate2024.md) - Storefront focused updates to the Merch Stores platform 2024
