@@ -9,4 +9,4 @@ Merchology Solutions is a set of purpose built tools designed to meet specific c
 
 ### Case Studies
 
-*WIP*
+- Storefront UI Update
