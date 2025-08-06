@@ -29,6 +29,10 @@
 ![Mandrill](https://img.shields.io/badge/Mandrill-F96B41?logo=mailchimp&logoColor=white&style=flat)
 ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?logo=mailchimp&logoColor=black&style=flat)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white&style=flat)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat)
+![Swiftype](https://img.shields.io/badge/Swiftype-2D2D2D?logoColor=white&style=flat)
+
+
 
 
 
