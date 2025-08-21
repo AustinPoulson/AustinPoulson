@@ -1,5 +1,5 @@
 # Boston Scientific Merch <img width="250" height="36" alt="image" src="https://github.com/user-attachments/assets/1b9aa2b6-f35e-4a49-8dfb-addc66435ad5" />
-*Last Updated: Aug 5th 2025*
+*Last Updated: Aug 21st 2025*
 
 Visit the site: [https://bostonscientificmerch.com/](https://bostonscientificmerch.com/)
 
@@ -42,4 +42,9 @@ The Boston Scientific merch store was completed and delivered fulfilling the con
 Through this project we:
 - Delivered a feature-rich Shopify store aligned closely with Boston Scientific’s brand standards.
 - Moved quickly - The development portion of the project was completed in half the estimated time.
-- Received positive feedback from the client.
+- Secured $10m+ funding guaranteed over a 3 year period.
+
+### Client Feedback
+>I cannot say enough praise to this integration team. You embrace our core values of collaboration and winning spirit. So much work went into this in a very short time and the outcome is just fantastic.
+>
+>You are truly the A team.
