@@ -52,6 +52,9 @@
 ### Personal
 - [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage
 
+## Blogs
+- [A Quick Note About BOM in UTF-8](blogs/BOMinUTF-8.md)
+
 <!--
 **AustinPoulson/AustinPoulson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
