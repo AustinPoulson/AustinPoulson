@@ -42,7 +42,7 @@
 
 ## Profiles
 - [Merchology Github](https://github.com/AustinMerchology)
-- [Stack Overflow](https://stackoverflow.com/users/12817213/austin-poulson)
+- [StackOverflow](https://stackoverflow.com/users/12817213/austin-poulson)
 
 ## Projects
 ### EtherMedia
