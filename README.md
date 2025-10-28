@@ -50,6 +50,7 @@
 ### Merchology
 - [Merchology Solutions](projects/Merchology/MerchologySolutions/MerchologySolutions.md) - Tool suite for Merchology sales
 - [Boston Scientific Merch](projects/Merchology/BostonScientificMerch.md) - Merchology supplied merchandise for Boston Scientific
+- [SPS Merch](projects/Merchology/SPSMerch.md) - Merchology supplied merchandise for SPS Commerce
 ### Personal
 - [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage
 
