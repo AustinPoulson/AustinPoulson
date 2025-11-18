@@ -350,3 +350,23 @@ Reduced confusion and improved internal + external reliability.
    Prevents divergence between Sandbox, PunchOut Cloud, and production systems.
 
 ---
+
+### Zip eProcurement Flow
+
+```mermaid
+flowchart TB
+    zipOr[ZipHQ Origin]
+    store[Shopify storefront]
+    zipAp[ZipHQ Approval]
+    shop[Shopify Order Processing]
+    ns[NetSuite ERP]
+    fulfill[Order production and fulfillment]
+    ap[Insulet Accounts Payable]
+
+    zipOr -->| Punchout traffic forwarded to storefront | store
+    store --> | Cart and user returned to Zip | zipAp 
+    zipAp --> | Purchase order returned | shop
+    shop --> ns
+    ns --> fulfill
+    ns --> ap
+```
