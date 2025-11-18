@@ -355,7 +355,7 @@ Reduced confusion and improved internal + external reliability.
    PunchOut + SSO demands clean, reliable session transitions.
 
 5. **Test orders must be reproducible and traceable.**  
-   Prevents divergence between Sandbox, PunchOut Cloud, and production systems.
+   Prevents divergence between sandbox and production systems.
 
 ---
 
