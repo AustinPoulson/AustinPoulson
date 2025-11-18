@@ -24,7 +24,7 @@ Site: https://insuletmerch.com/
   - [5. Technical Solutions Implemented](#5-technical-solutions-implemented)
   - [6. Results](#6-results)
   - [7. Technical Lessons Learned](#7-technical-lessons-learned)
-  - [8. Gallery & Diagrams](#8-Gallery--Diagrams)
+  - [8. Gallery & Diagrams](#8-gallery--diagrams)
 
 ---
 
@@ -358,7 +358,7 @@ Reduced confusion and improved internal + external reliability.
 
 ---
 
-#$ 8. Gallery & Diagrams
+## **8. Gallery & Diagrams**
 
 ### Zip eProcurement Flow
 
