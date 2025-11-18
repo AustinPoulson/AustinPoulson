@@ -49,6 +49,7 @@
 - [EtherMedia](https://ethermedia.app/) - Photo sales platform
 ### Merchology
 - [Merchology Solutions](projects/Merchology/MerchologySolutions/MerchologySolutions.md) - Tool suite for Merchology sales
+- [Insulet Merch](projects/Merchology/InsuletMerch.md) - Insulet × Merchology PunchOut + SSO Integration
 - [Boston Scientific Merch](projects/Merchology/BostonScientificMerch.md) - Merchology supplied merchandise for Boston Scientific
 - [SPS Merch](projects/Merchology/SPSMerch.md) - Merchology supplied merchandise for SPS Commerce
 ### Personal
