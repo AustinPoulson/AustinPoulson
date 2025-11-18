@@ -4,10 +4,24 @@
 
 *Last Updated: Tuesday Nov 18th 2025*
 
+---
+
+## Table of Contents
+- [Non-Technical Overview](#non-technical-overview)
+- [My Role in This Project](#my-role-in-this-project)
+- [Summary of Contribution](#summary-of-contribution)
+- [Full Technical Case Study](#full-technical-case-study)
+  - [1. Executive Summary](#1-executive-summary)
+  - [2. Background & Requirements](#2-background--requirements)
+  - [3. Systems Architecture Overview](#3-systems-architecture-overview)
+  - [4. Challenges Identified](#4-challenges-identified-during-integration)
+  - [5. Technical Solutions Implemented](#5-technical-solutions-implemented)
+  - [6. Results](#6-results)
+  - [7. Technical Lessons Learned](#7-technical-lessons-learned)
 
 ---
 
-## **Non-Technical Overview (For Recruiters & Executives)**
+## **Non-Technical Overview**
 
 Insulet needed a corporate merchandise store capable of integrating directly with their procurement platform, ZipHQ, using a PunchOut checkout flow. Employees had to be able to browse products inside ZipHQ, transfer carts to Merchology’s Shopify store, route approvals, and have their final purchase order automatically returned to Merchology for fulfillment.
 
