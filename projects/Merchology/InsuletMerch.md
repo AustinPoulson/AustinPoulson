@@ -3,7 +3,7 @@
 ### **Engineering Case Study — Corporate Procurement, PunchOut cXML, Shopify, and Multi-System Orchestration**  
 **By: Austin Poulson (Web Developer, Merchology)**
 
-Site: https://insuletmerch.com/
+Visit the site: https://insuletmerch.com/
 
 *Last Updated: Tuesday Nov 18th 2025*
 
