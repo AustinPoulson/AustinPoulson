@@ -9,10 +9,6 @@ Visit the site: https://insuletmerch.com/
 
 ---
 
-<img width="1440" height="2476" alt="image" src="https://github.com/user-attachments/assets/e8ae7af5-ead4-4300-a17b-031a81f3199b" />
-
----
-
 ## Table of Contents
 - [Non-Technical Overview](#non-technical-overview)
 - [My Role in This Project](#my-role-in-this-project)
@@ -26,6 +22,10 @@ Visit the site: https://insuletmerch.com/
   - [6. Results](#6-results)
   - [7. Technical Lessons Learned](#7-technical-lessons-learned)
   - [8. Gallery & Diagrams](#8-gallery--diagrams)
+
+---
+
+<img width="1440" height="2476" alt="image" src="https://github.com/user-attachments/assets/e8ae7af5-ead4-4300-a17b-031a81f3199b" />
 
 ---
 
