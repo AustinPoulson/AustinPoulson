@@ -1,4 +1,5 @@
-# **Insulet × Merchology PunchOut + SSO Integration**  
+# **Insulet × Merchology PunchOut + SSO Integration**  <img width="251" height="36" alt="image" src="https://github.com/user-attachments/assets/40d51036-bd49-42ba-a1db-5be8e9cebcf9" />
+
 ### **Engineering Case Study — Corporate Procurement, PunchOut cXML, Shopify, and Multi-System Orchestration**  
 **By: Austin Poulson (Web Developer, Merchology)**
 
