@@ -24,7 +24,7 @@ Site: https://insuletmerch.com/
   - [5. Technical Solutions Implemented](#5-technical-solutions-implemented)
   - [6. Results](#6-results)
   - [7. Technical Lessons Learned](#7-technical-lessons-learned)
-  - [8. Gallery & Diagrams](#-Gallery--Diagrams)
+  - [8. Gallery & Diagrams](#8-Gallery--Diagrams)
 
 ---
 
@@ -358,9 +358,9 @@ Reduced confusion and improved internal + external reliability.
 
 ---
 
-# Gallery & Diagrams
+#$ 8. Gallery & Diagrams
 
-## Zip eProcurement Flow
+### Zip eProcurement Flow
 
 ```mermaid
 flowchart TB
@@ -380,7 +380,7 @@ flowchart TB
     ns --> ap
 ```
 
-## UI Highlights
+### UI Highlights
 <img width="614" height="533" alt="image" src="https://github.com/user-attachments/assets/3f8bd48e-447e-4193-8d5a-46e2bb6bc99b" />
 
 <img width="593" height="433" alt="image" src="https://github.com/user-attachments/assets/051e6d41-abb0-4d6f-a098-546df769a321" />
