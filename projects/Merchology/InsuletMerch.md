@@ -2,7 +2,13 @@
 ### **Engineering Case Study — Corporate Procurement, PunchOut cXML, Shopify, and Multi-System Orchestration**  
 **By: Austin Poulson (Web Developer, Merchology)**
 
+Site: https://insuletmerch.com/
+
 *Last Updated: Tuesday Nov 18th 2025*
+
+---
+
+<img width="1440" height="2476" alt="image" src="https://github.com/user-attachments/assets/e8ae7af5-ead4-4300-a17b-031a81f3199b" />
 
 ---
 
@@ -18,6 +24,7 @@
   - [5. Technical Solutions Implemented](#5-technical-solutions-implemented)
   - [6. Results](#6-results)
   - [7. Technical Lessons Learned](#7-technical-lessons-learned)
+  - [8. Gallery & Diagrams](#-Gallery--Diagrams)
 
 ---
 
@@ -351,7 +358,9 @@ Reduced confusion and improved internal + external reliability.
 
 ---
 
-# Zip eProcurement Flow
+# Gallery & Diagrams
+
+## Zip eProcurement Flow
 
 ```mermaid
 flowchart TB
@@ -370,3 +379,14 @@ flowchart TB
     ns --> fulfill
     ns --> ap
 ```
+
+## UI Highlights
+<img width="614" height="533" alt="image" src="https://github.com/user-attachments/assets/3f8bd48e-447e-4193-8d5a-46e2bb6bc99b" />
+
+<img width="593" height="433" alt="image" src="https://github.com/user-attachments/assets/051e6d41-abb0-4d6f-a098-546df769a321" />
+
+<img width="1440" height="2514" alt="image" src="https://github.com/user-attachments/assets/86c62985-5b08-4ba9-b043-9b267ed05a1a" />
+
+<img width="368" height="379" alt="image" src="https://github.com/user-attachments/assets/f66bc0fa-eed8-4e85-bac5-85686fff324e" />
+
+
