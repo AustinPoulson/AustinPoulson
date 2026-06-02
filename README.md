@@ -61,8 +61,9 @@
 - [Big Merch Energy](https://bigmerchenergy.com) - custom Shopify storefront/demo site.
 - [CUCA Gear Hub / Pepsi West](https://cucagearhub.com) - custom Shopify storefront.
 - [ACBL Impact Store](https://acblimpactstore.com) - custom Shopify storefront.
-- [Baldwin Supply Apparel Store](https://baldwinmerch.com) - custom Shopify storefront/demo site.
+- [Baldwin Supply Apparel Store](https://baldwinmerch.com) - custom Shopify storefront.
 - [Fairview Merch](https://fairviewmerch.com) - custom Shopify storefront.
+- [Nature Valley Merch]() - custom Shopify storefront.
 
 ### Personal
 - [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage
