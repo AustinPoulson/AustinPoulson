@@ -48,10 +48,22 @@
 ### EtherMedia
 - [EtherMedia](https://ethermedia.app/) - Photo sales platform
 ### Merchology
-- [Merchology Solutions](projects/Merchology/MerchologySolutions/MerchologySolutions.md) - Tool suite for Merchology sales
-- [Insulet Merch](projects/Merchology/InsuletMerch.md) - Insulet × Merchology PunchOut + SSO Integration
-- [Boston Scientific Merch](projects/Merchology/BostonScientificMerch.md) - Merchology supplied merchandise for Boston Scientific
-- [SPS Merch](projects/Merchology/SPSMerch.md) - Merchology supplied merchandise for SPS Commerce
+- [Merchology](https://www.merchology.com) - public ecommerce storefront and sales tooling.
+- [Merchology LogoHub](https://logohub-admin.merchology.com) - internal logo/proofing workflow software.
+- [Merch Solutions / MerchStores](https://merchologysolutions.com) ([writeup](projects/Merchology/MerchologySolutions/MerchologySolutions.md)) - customer merch store and group-order platform.
+- [Zusa](https://zusa.com) - public brand/storefront and product-platform support.
+- [Lucas Oil Merch](https://lucasoilmerch.com) - custom Shopify storefront.
+- [BouGear / Caribou](https://bougear.com) - custom Shopify storefront.
+- [Boston Scientific Merch](https://bostonscientificmerch.com) ([writeup](projects/Merchology/BostonScientificMerch.md)) - custom Shopify storefront.
+- [Insulet Merch](https://insuletmerch.com) ([writeup](projects/Merchology/InsuletMerch.md)) - custom Shopify storefront.
+- [SPS Merch](https://spsmerch.com) ([writeup](projects/Merchology/SPSMerch.md)) - custom Shopify storefront.
+- [Groebner Merch](https://groebnermerch.com) - custom Shopify storefront.
+- [Big Merch Energy](https://bigmerchenergy.com) - custom Shopify storefront/demo site.
+- [CUCA Gear Hub / Pepsi West](https://cucagearhub.com) - custom Shopify storefront.
+- [ACBL Impact Store](https://acblimpactstore.com) - custom Shopify storefront.
+- [Baldwin Supply Apparel Store](https://baldwinmerch.com) - custom Shopify storefront/demo site.
+- [Fairview Merch](https://fairviewmerch.com) - custom Shopify storefront.
+
 ### Personal
 - [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage
 
