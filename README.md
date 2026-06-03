@@ -48,7 +48,7 @@
 ### EtherMedia
 - [EtherMedia](https://ethermedia.app/) - Photo sales platform
 ### Merchology
-- [Merchology](https://www.merchology.com) - public ecommerce storefront and sales tooling.
+- [Merchology](https://www.merchology.com) ([writeup](projects/Merchology/Merchology.com.md)) - public ecommerce storefront and sales tooling.
 - [Merchology LogoHub](https://logohub-admin.merchology.com) - internal logo/proofing workflow software.
 - [Merch Solutions / MerchStores](https://merchologysolutions.com) ([writeup](projects/Merchology/MerchologySolutions/MerchologySolutions.md)) - customer merch store and group-order platform.
 - [Zusa](https://zusa.com) - public brand/storefront and product-platform support.
