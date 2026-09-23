@@ -44,9 +44,9 @@
 - [Merchology Github](https://github.com/AustinMerchology)
 - [StackOverflow](https://stackoverflow.com/users/12817213/austin-poulson)
 
-## Projects
+## Professional Work
 
-### Merchology Projects
+### Merchology
 
 #### Platforms & Products
 - <img src="assets/favicons/merchology.png" width="16" height="16" alt=""> [Merchology](https://www.merchology.com) ([writeup](projects/Merchology/Merchology.com.md)) - public ecommerce storefront and sales tooling.
@@ -70,9 +70,13 @@
 - <img src="assets/favicons/sps.png" width="16" height="16" alt=""> [SPS Merch](https://spsmerch.com) ([writeup](projects/Merchology/SPSMerch.md)) - custom Shopify storefront.
 - <img src="assets/favicons/threatlocker.png" width="16" height="16" alt=""> [ThreatLocker Cyber Hero Store](https://cyberherostore.com) - custom Shopify promotional storefront.
 
-### Independent Projects
-- <img src="assets/favicons/ethermedia.png" width="16" height="16" alt=""> [EtherMedia](https://ethermedia.app/) - Photo sales platform.
-- <img src="assets/favicons/homepage.ico" width="16" height="16" alt=""> [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage
+### EtherMedia
+<img src="assets/favicons/ethermedia.png" width="16" height="16" alt=""> **Co-owner & Developer** · [ethermedia.app](https://ethermedia.app/)
+
+Ongoing product and engineering work for a photo sales platform.
+
+## Personal Projects
+- <img src="assets/favicons/homepage.ico" width="16" height="16" alt=""> [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage.
 
 ## Blogs
 - [A Quick Note About BOM in UTF-8](blogs/BOMinUTF-8.md)
