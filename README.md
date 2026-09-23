@@ -49,30 +49,30 @@
 ### Merchology Projects
 
 #### Platforms & Products
-- [Merchology](https://www.merchology.com) ([writeup](projects/Merchology/Merchology.com.md)) - public ecommerce storefront and sales tooling.
-- [Merchology LogoHub](https://logohub-admin.merchology.com) - internal logo/proofing workflow software.
-- [Merch Solutions / MerchStores](https://merchologysolutions.com) ([writeup](projects/Merchology/MerchologySolutions/MerchologySolutions.md)) - customer merch store and group-order platform.
-- [Zusa](https://zusa.com) - public brand/storefront and product-platform support.
+- <img src="assets/favicons/merchology.png" width="16" height="16" alt=""> [Merchology](https://www.merchology.com) ([writeup](projects/Merchology/Merchology.com.md)) - public ecommerce storefront and sales tooling.
+- <img src="assets/favicons/logohub.svg" width="16" height="16" alt=""> [Merchology LogoHub](https://logohub-admin.merchology.com) - internal logo/proofing workflow software.
+- <img src="assets/favicons/merch-solutions.png" width="16" height="16" alt=""> [Merch Solutions / MerchStores](https://merchologysolutions.com) ([writeup](projects/Merchology/MerchologySolutions/MerchologySolutions.md)) - customer merch store and group-order platform.
+- <img src="assets/favicons/zusa.png" width="16" height="16" alt=""> [Zusa](https://zusa.com) - public brand/storefront and product-platform support.
 
 #### Custom Sites
-- [ACBL Impact Store](https://acblimpactstore.com) - custom Shopify storefront.
-- [Baldwin Supply Apparel Store](https://baldwinmerch.com) - custom Shopify storefront.
-- [Big Merch Energy](https://bigmerchenergy.com) - internal Merchology storefront and custom-site demo.
-- [Boston Scientific Merch](https://bostonscientificmerch.com) ([writeup](projects/Merchology/BostonScientificMerch.md)) - custom Shopify storefront.
-- [BouGear / Caribou](https://bougear.com) - custom Shopify storefront.
-- [CUCA Gear Hub / Pepsi West](https://cucagearhub.com) - custom Shopify storefront.
-- [Fairview Merch](https://fairviewmerch.com) - custom Shopify storefront.
-- [Groebner Merch](https://groebnermerch.com) - custom Shopify storefront.
-- [Insulet Merch](https://insuletmerch.com) ([writeup](projects/Merchology/InsuletMerch.md)) - custom Shopify storefront.
-- [Lucas Oil Merch](https://lucasoilmerch.com) - custom Shopify storefront.
-- [Lucas Oil × AutoZone](https://merchology-lucas-oil-autozone.myshopify.com) - custom Shopify storefront.
-- [Nature Valley Merch](https://nvgetoutside.com) - custom Shopify storefront.
-- [SPS Merch](https://spsmerch.com) ([writeup](projects/Merchology/SPSMerch.md)) - custom Shopify storefront.
-- [ThreatLocker Cyber Hero Store](https://cyberherostore.com) - custom Shopify promotional storefront.
+- <img src="assets/favicons/acbl.png" width="16" height="16" alt=""> [ACBL Impact Store](https://acblimpactstore.com) - custom Shopify storefront.
+- <img src="assets/favicons/baldwin.png" width="16" height="16" alt=""> [Baldwin Supply Apparel Store](https://baldwinmerch.com) - custom Shopify storefront.
+- <img src="assets/favicons/big-merch-energy.png" width="16" height="16" alt=""> [Big Merch Energy](https://bigmerchenergy.com) - internal Merchology storefront and custom-site demo.
+- <img src="assets/favicons/boston-scientific.png" width="16" height="16" alt=""> [Boston Scientific Merch](https://bostonscientificmerch.com) ([writeup](projects/Merchology/BostonScientificMerch.md)) - custom Shopify storefront.
+- <img src="assets/favicons/caribou.png" width="16" height="16" alt=""> [BouGear / Caribou](https://bougear.com) - custom Shopify storefront.
+- <img src="assets/favicons/pepsi-west.png" width="16" height="16" alt=""> [CUCA Gear Hub / Pepsi West](https://cucagearhub.com) - custom Shopify storefront.
+- <img src="assets/favicons/fairview.png" width="16" height="16" alt=""> [Fairview Merch](https://fairviewmerch.com) - custom Shopify storefront.
+- <img src="assets/favicons/groebner.png" width="16" height="16" alt=""> [Groebner Merch](https://groebnermerch.com) - custom Shopify storefront.
+- <img src="assets/favicons/insulet.png" width="16" height="16" alt=""> [Insulet Merch](https://insuletmerch.com) ([writeup](projects/Merchology/InsuletMerch.md)) - custom Shopify storefront.
+- <img src="assets/favicons/lucas-oil.png" width="16" height="16" alt=""> [Lucas Oil Merch](https://lucasoilmerch.com) - custom Shopify storefront.
+- <img src="assets/favicons/lucas-oil-autozone.png" width="16" height="16" alt=""> [Lucas Oil × AutoZone](https://merchology-lucas-oil-autozone.myshopify.com) - custom Shopify storefront.
+- <img src="assets/favicons/nature-valley.png" width="16" height="16" alt=""> [Nature Valley Merch](https://nvgetoutside.com) - custom Shopify storefront.
+- <img src="assets/favicons/sps.png" width="16" height="16" alt=""> [SPS Merch](https://spsmerch.com) ([writeup](projects/Merchology/SPSMerch.md)) - custom Shopify storefront.
+- <img src="assets/favicons/threatlocker.png" width="16" height="16" alt=""> [ThreatLocker Cyber Hero Store](https://cyberherostore.com) - custom Shopify promotional storefront.
 
 ### Independent Projects
-- [EtherMedia](https://ethermedia.app/) - Photo sales platform.
-- [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage
+- <img src="assets/favicons/ethermedia.png" width="16" height="16" alt=""> [EtherMedia](https://ethermedia.app/) - Photo sales platform.
+- <img src="assets/favicons/homepage.ico" width="16" height="16" alt=""> [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage
 
 ## Blogs
 - [A Quick Note About BOM in UTF-8](blogs/BOMinUTF-8.md)
