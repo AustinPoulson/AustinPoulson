@@ -48,22 +48,30 @@
 ### EtherMedia
 - [EtherMedia](https://ethermedia.app/) - Photo sales platform
 ### Merchology
+
+#### Platforms & Products
 - [Merchology](https://www.merchology.com) ([writeup](projects/Merchology/Merchology.com.md)) - public ecommerce storefront and sales tooling.
 - [Merchology LogoHub](https://logohub-admin.merchology.com) - internal logo/proofing workflow software.
 - [Merch Solutions / MerchStores](https://merchologysolutions.com) ([writeup](projects/Merchology/MerchologySolutions/MerchologySolutions.md)) - customer merch store and group-order platform.
 - [Zusa](https://zusa.com) - public brand/storefront and product-platform support.
-- [Lucas Oil Merch](https://lucasoilmerch.com) - custom Shopify storefront.
-- [BouGear / Caribou](https://bougear.com) - custom Shopify storefront.
-- [Boston Scientific Merch](https://bostonscientificmerch.com) ([writeup](projects/Merchology/BostonScientificMerch.md)) - custom Shopify storefront.
-- [Insulet Merch](https://insuletmerch.com) ([writeup](projects/Merchology/InsuletMerch.md)) - custom Shopify storefront.
-- [SPS Merch](https://spsmerch.com) ([writeup](projects/Merchology/SPSMerch.md)) - custom Shopify storefront.
-- [Groebner Merch](https://groebnermerch.com) - custom Shopify storefront.
-- [Big Merch Energy](https://bigmerchenergy.com) - custom Shopify storefront/demo site.
-- [CUCA Gear Hub / Pepsi West](https://cucagearhub.com) - custom Shopify storefront.
+
+---
+
+#### Custom Sites
 - [ACBL Impact Store](https://acblimpactstore.com) - custom Shopify storefront.
 - [Baldwin Supply Apparel Store](https://baldwinmerch.com) - custom Shopify storefront.
+- [Big Merch Energy](https://bigmerchenergy.com) - internal Merchology storefront and custom-site demo.
+- [Boston Scientific Merch](https://bostonscientificmerch.com) ([writeup](projects/Merchology/BostonScientificMerch.md)) - custom Shopify storefront.
+- [BouGear / Caribou](https://bougear.com) - custom Shopify storefront.
+- [CUCA Gear Hub / Pepsi West](https://cucagearhub.com) - custom Shopify storefront.
 - [Fairview Merch](https://fairviewmerch.com) - custom Shopify storefront.
-- [Nature Valley Merch]() - custom Shopify storefront.
+- [Groebner Merch](https://groebnermerch.com) - custom Shopify storefront.
+- [Insulet Merch](https://insuletmerch.com) ([writeup](projects/Merchology/InsuletMerch.md)) - custom Shopify storefront.
+- [Lucas Oil Merch](https://lucasoilmerch.com) - custom Shopify storefront.
+- [Lucas Oil × AutoZone](https://merchology-lucas-oil-autozone.myshopify.com) - custom Shopify storefront.
+- [Nature Valley Merch](https://nvgetoutside.com) - custom Shopify storefront.
+- [SPS Merch](https://spsmerch.com) ([writeup](projects/Merchology/SPSMerch.md)) - custom Shopify storefront.
+- [ThreatLocker Cyber Hero Store](https://cyberherostore.com) - custom Shopify promotional storefront.
 
 ### Personal
 - [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage
