@@ -45,17 +45,14 @@
 - [StackOverflow](https://stackoverflow.com/users/12817213/austin-poulson)
 
 ## Projects
-### EtherMedia
-- [EtherMedia](https://ethermedia.app/) - Photo sales platform
-### Merchology
+
+### Merchology Projects
 
 #### Platforms & Products
 - [Merchology](https://www.merchology.com) ([writeup](projects/Merchology/Merchology.com.md)) - public ecommerce storefront and sales tooling.
 - [Merchology LogoHub](https://logohub-admin.merchology.com) - internal logo/proofing workflow software.
 - [Merch Solutions / MerchStores](https://merchologysolutions.com) ([writeup](projects/Merchology/MerchologySolutions/MerchologySolutions.md)) - customer merch store and group-order platform.
 - [Zusa](https://zusa.com) - public brand/storefront and product-platform support.
-
----
 
 #### Custom Sites
 - [ACBL Impact Store](https://acblimpactstore.com) - custom Shopify storefront.
@@ -73,7 +70,8 @@
 - [SPS Merch](https://spsmerch.com) ([writeup](projects/Merchology/SPSMerch.md)) - custom Shopify storefront.
 - [ThreatLocker Cyber Hero Store](https://cyberherostore.com) - custom Shopify promotional storefront.
 
-### Personal
+### Independent Projects
+- [EtherMedia](https://ethermedia.app/) - Photo sales platform.
 - [HomePage](https://austinpoulson.github.io/HomePage/) ([repo](https://github.com/AustinPoulson/HomePage)) - Customizable homepage
 
 ## Blogs
