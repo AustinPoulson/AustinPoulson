@@ -87,6 +87,9 @@ Ongoing product and engineering work for a photo sales platform.
 ## Blogs
 - [A Quick Note About BOM in UTF-8](blogs/BOMinUTF-8.md)
 
+<div align="center">
+<sub>seems doable</sub>
+</div>
 <!--
 **AustinPoulson/AustinPoulson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
