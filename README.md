@@ -55,20 +55,20 @@
 - <img src="assets/favicons/zusa.png" width="16" height="16" alt=""> [Zusa](https://zusa.com) - public brand/storefront and product-platform support.
 
 #### Custom Sites
-- <img src="assets/favicons/acbl.png" width="16" height="16" alt=""> [ACBL Impact Store](https://acblimpactstore.com) - custom Shopify storefront.
-- <img src="assets/favicons/baldwin.png" width="16" height="16" alt=""> [Baldwin Supply Apparel Store](https://baldwinmerch.com) - custom Shopify storefront.
+- <img src="assets/favicons/acbl.png" width="16" height="16" alt=""> [ACBL Impact Store](https://acblimpactstore.com)
+- <img src="assets/favicons/baldwin.png" width="16" height="16" alt=""> [Baldwin Supply Apparel Store](https://baldwinmerch.com)
 - <img src="assets/favicons/big-merch-energy.png" width="16" height="16" alt=""> [Big Merch Energy](https://bigmerchenergy.com) - internal Merchology storefront and custom-site demo.
-- <img src="assets/favicons/boston-scientific.png" width="16" height="16" alt=""> [Boston Scientific Merch](https://bostonscientificmerch.com) ([writeup](projects/Merchology/BostonScientificMerch.md)) - custom Shopify storefront.
-- <img src="assets/favicons/caribou.png" width="16" height="16" alt=""> [BouGear / Caribou](https://bougear.com) - custom Shopify storefront.
-- <img src="assets/favicons/pepsi-west.png" width="16" height="16" alt=""> [CUCA Gear Hub / Pepsi West](https://cucagearhub.com) - custom Shopify storefront.
-- <img src="assets/favicons/fairview.png" width="16" height="16" alt=""> [Fairview Merch](https://fairviewmerch.com) - custom Shopify storefront.
-- <img src="assets/favicons/groebner.png" width="16" height="16" alt=""> [Groebner Merch](https://groebnermerch.com) - custom Shopify storefront.
-- <img src="assets/favicons/insulet.png" width="16" height="16" alt=""> [Insulet Merch](https://insuletmerch.com) ([writeup](projects/Merchology/InsuletMerch.md)) - custom Shopify storefront.
-- <img src="assets/favicons/lucas-oil.png" width="16" height="16" alt=""> [Lucas Oil Merch](https://lucasoilmerch.com) - custom Shopify storefront.
-- <img src="assets/favicons/lucas-oil-autozone.png" width="16" height="16" alt=""> [Lucas Oil × AutoZone](https://merchology-lucas-oil-autozone.myshopify.com) - custom Shopify storefront.
-- <img src="assets/favicons/nature-valley.png" width="16" height="16" alt=""> [Nature Valley Merch](https://nvgetoutside.com) - custom Shopify storefront.
-- <img src="assets/favicons/sps.png" width="16" height="16" alt=""> [SPS Merch](https://spsmerch.com) ([writeup](projects/Merchology/SPSMerch.md)) - custom Shopify storefront.
-- <img src="assets/favicons/threatlocker.png" width="16" height="16" alt=""> [ThreatLocker Cyber Hero Store](https://cyberherostore.com) - custom Shopify promotional storefront.
+- <img src="assets/favicons/boston-scientific.png" width="16" height="16" alt=""> [Boston Scientific Merch](https://bostonscientificmerch.com) ([writeup](projects/Merchology/BostonScientificMerch.md))
+- <img src="assets/favicons/caribou.png" width="16" height="16" alt=""> [BouGear / Caribou](https://bougear.com)
+- <img src="assets/favicons/pepsi-west.png" width="16" height="16" alt=""> [CUCA Gear Hub / Pepsi West](https://cucagearhub.com)
+- <img src="assets/favicons/fairview.png" width="16" height="16" alt=""> [Fairview Merch](https://fairviewmerch.com)
+- <img src="assets/favicons/groebner.png" width="16" height="16" alt=""> [Groebner Merch](https://groebnermerch.com)
+- <img src="assets/favicons/insulet.png" width="16" height="16" alt=""> [Insulet Merch](https://insuletmerch.com) ([writeup](projects/Merchology/InsuletMerch.md))
+- <img src="assets/favicons/lucas-oil.png" width="16" height="16" alt=""> [Lucas Oil Merch](https://lucasoilmerch.com)
+- <img src="assets/favicons/lucas-oil-autozone.png" width="16" height="16" alt=""> [Lucas Oil × AutoZone](https://merchology-lucas-oil-autozone.myshopify.com)
+- <img src="assets/favicons/nature-valley.png" width="16" height="16" alt=""> [Nature Valley Merch](https://nvgetoutside.com)
+- <img src="assets/favicons/sps.png" width="16" height="16" alt=""> [SPS Merch](https://spsmerch.com) ([writeup](projects/Merchology/SPSMerch.md))
+- <img src="assets/favicons/threatlocker.png" width="16" height="16" alt=""> [ThreatLocker Cyber Hero Store](https://cyberherostore.com)
 
 ### EtherMedia
 <img src="assets/favicons/ethermedia.png" width="16" height="16" alt=""> **Co-owner & Developer** · [ethermedia.app](https://ethermedia.app/)
