@@ -32,6 +32,11 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat)
 ![Swiftype](https://img.shields.io/badge/Swiftype-2D2D2D?logoColor=white&style=flat)
 ![Sharp](https://img.shields.io/badge/Sharp-0DABDE?logo=npm&logoColor=white&style=flat)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=flat)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white&style=flat)
+![Codex](https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat)
 
 
 
@@ -55,6 +60,7 @@
 - <img src="assets/favicons/zusa.png" width="16" height="16" alt=""> [Zusa](https://zusa.com) - public brand/storefront and product-platform support.
 
 #### Custom Sites
+Custom Shopify sites I build and maintain for Merchology clients.
 - <img src="assets/favicons/acbl.png" width="16" height="16" alt=""> [ACBL Impact Store](https://acblimpactstore.com)
 - <img src="assets/favicons/baldwin.png" width="16" height="16" alt=""> [Baldwin Supply Apparel Store](https://baldwinmerch.com)
 - <img src="assets/favicons/big-merch-energy.png" width="16" height="16" alt=""> [Big Merch Energy](https://bigmerchenergy.com) - internal Merchology storefront and custom-site demo.
