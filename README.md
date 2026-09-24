@@ -51,7 +51,7 @@
 #### Platforms & Products
 - <img src="assets/favicons/merchology.png" width="16" height="16" alt=""> [Merchology](https://www.merchology.com) ([writeup](projects/Merchology/Merchology.com.md)) - public ecommerce storefront and sales tooling.
 - <img src="assets/favicons/logohub.svg" width="16" height="16" alt=""> [Merchology LogoHub](https://logohub-admin.merchology.com) - internal logo/proofing workflow software.
-- <img src="assets/favicons/merch-solutions.png" width="16" height="16" alt=""> [Merch Solutions / MerchStores](https://merchologysolutions.com) ([writeup](projects/Merchology/MerchologySolutions/MerchologySolutions.md)) - customer merch store and group-order platform.
+- <img src="assets/favicons/merchology.png" width="16" height="16" alt=""> [Merch Solutions / MerchStores](https://merchologysolutions.com) ([writeup](projects/Merchology/MerchologySolutions/MerchologySolutions.md)) - customer merch store and group-order platform.
 - <img src="assets/favicons/zusa.png" width="16" height="16" alt=""> [Zusa](https://zusa.com) - public brand/storefront and product-platform support.
 
 #### Custom Sites
