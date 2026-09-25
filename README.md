@@ -88,7 +88,7 @@ Ongoing product and engineering work for a photo sales platform.
 
 ### Past lives
 
-🔧 Repair Technician · ⚙️ Engineering Intern · 🎛️ Event Technician · 🔊 Audio Engineer · 💡 Lighting Technician · 🔦 Spotlight Operator · 📷 Photographer · 🔌 Cable Monkey · 🎭 Stagehand
+🔧 Repair Technician · ⚙️ Engineering Intern · 🎛️ Event Tech · 🔊 Audio Engineer · 💡 Lighting Tech · 🔦 Spotlight Operator · <br>📷 Photographer · 🔌 Cable Monkey · 🎭 Stagehand
 
 <div align="center">
 <sub>seems doable</sub>
