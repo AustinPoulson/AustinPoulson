@@ -86,6 +86,10 @@ Ongoing product and engineering work for a photo sales platform.
 ## Blogs
 - [A Quick Note About BOM in UTF-8](blogs/BOMinUTF-8.md)
 
+### Past lives
+
+🔧 Repair Technician · ⚙️ Engineering Intern · 🎛️ Event Technician · 🔊 Audio Engineer · 💡 Lighting Technician · 🔦 Spotlight Operator · 📷 Photographer · 🔌 Cable Monkey · 🎭 Stagehand
+
 <div align="center">
 <sub>seems doable</sub>
 </div>
